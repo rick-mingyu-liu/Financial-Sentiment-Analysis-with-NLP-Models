@@ -1,0 +1,8 @@
+emoji
+wordsegment
+nltk
+transformers
+p
+pandas
+torch
+ipython
